@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arjunmehta4342-afk.github.io/shivam-decoration/sitemap.xml
